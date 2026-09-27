@@ -8,7 +8,7 @@ A Data Structures project developed using HTML, CSS, JavaScript, and C++.
 - Percentage Calculation
 - Grade Calculation
 - Pass/Fail Status
-- PDF Download
+- Print result
 - Responsive Design
 
 ## Data Structure Used
