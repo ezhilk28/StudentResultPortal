@@ -1,0 +1,1 @@
+Open index.html with Live Server in VS Code. Use reg no 23CS101 or 23CS102.

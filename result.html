@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="card">
+        <h1>Student Result</h1>
+        <div id="info"></div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject</th>
+                    <th>Marks</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data Structures</td>
+                    <td id="ds"></td>
+                </tr>
+                <tr>
+                    <td>C++</td>
+                    <td id="cpp"></td>
+                </tr>
+                <tr>
+                    <td>DBMS</td>
+                    <td id="dbms"></td>
+                </tr>
+                <tr>
+                    <td>Operating System</td>
+                    <td id="os"></td>
+                </tr>
+            </tbody>
+        </table>
+        <div id="summary"></div><br><button onclick="location.href='index.html'">OK</button><button
+            onclick="window.print()">Print</button>
+    </div>
+    <script src="result.js"></script>
+</body>
+
+</html>
